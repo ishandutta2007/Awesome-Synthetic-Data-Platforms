@@ -1,9 +1,18 @@
 # Awesome Synthetic Data Platforms 🚀
 ### The Ultimate Guide to Privacy-Safe AI Data & Synthetic Twins
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
+
 **A curated ecosystem of SaaS platforms, open-source projects, and enterprise solutions for generating high-fidelity, privacy-preserving synthetic data.**
 
+</div>
 ---
 
 ## 🌟 Why Synthetic Data?
